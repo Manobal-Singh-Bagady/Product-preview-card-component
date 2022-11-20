@@ -35,6 +35,7 @@ Users should be able to:
 
 ### Links
 
+- Solution Link: [https://github.com/Manobal-Singh-Bagady/Product-preview-card-component](https://github.com/Manobal-Singh-Bagady/Product-preview-card-component)
 - Live Site URL: [https://manobal-singh-bagady.github.io/Product-preview-card-component/](https://manobal-singh-bagady.github.io/Product-preview-card-component/)
 
 ## My process
